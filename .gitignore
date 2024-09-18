@@ -1,0 +1,10 @@
+# Ignorer les fichiers avec l'extension .o
+*.o
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.temp
+
+# Ignorer les exécutables (ex : fichier sans extension ou avec une extension d'exécutable)
+*.[Ee][Xx][Ee]
+*.[Ee][Xx][Ee][Cc]
